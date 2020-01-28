@@ -1,1 +1,11 @@
-first repository
+#include<iostream.h>
+class stu
+{
+char name[20];
+int rno;
+float perc;
+void insert();
+void print();
+} s1,s2;
+
+
