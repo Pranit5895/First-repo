@@ -7,5 +7,5 @@ float perc;
 void insert();
 void print();
 } s1,s2;
-
+basic structure of class
 
